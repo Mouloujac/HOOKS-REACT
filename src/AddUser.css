@@ -1,0 +1,8 @@
+#AddForm{
+    display: flex;
+    flex-direction: column;
+}
+
+td{
+    margin:10px;
+}
